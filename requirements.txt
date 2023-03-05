@@ -1,0 +1,8 @@
+notebook
+tensorflow
+matplotlib
+seaborn
+gym[classic_control]
+gymnasium
+numpy
+tqdm
